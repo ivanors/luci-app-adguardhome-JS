@@ -4,7 +4,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_LICENSE:=Apache-2.0
-PKG_NAME:=luci-app-adguardhome
+PKG_NAME:=luci-app-adguardhome-JS
 PKG_VERSION:=2.1
 PKG_RELEASE:=1
 PKG_MAINTAINER:=Douglas Orend <doug.orend2@gmail.com>
